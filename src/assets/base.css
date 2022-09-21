@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Code:wght@300;400&display=swap');
+
+*{
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Fira Code', monospace;
+}
+
+.end {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-size: large;
+}
+
+.end input {
+  width: 350px;
+  height: 30px;
+  font-size: large;
+  text-align: center;
+}
+
+.busca_end {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.busca input {
+  width: 240px;
+  height: 30px;
+  margin: 10px;
+  font-size: larger;
+}
+
+.busca button {
+  width: 70px;
+  height: 30px;
+  margin: 10px;
+}
